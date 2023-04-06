@@ -11,3 +11,10 @@ let calcSurface = (a, b) => {
 // Afficher une ptite phrase d'accroche avec le resultat de la surface
 
 alert("La surface du rectangle est de : " + calcSurface(lenght, width));
+
+/**
+ * Multiplier deux nombres
+ * @param  {lenght} first first number
+ * @param  {width}  The second number
+ * @return {a*b}     The multiplication of the two numbers
+ */
